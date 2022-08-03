@@ -2,8 +2,8 @@
 Java-based application that allows users to schedule courses. Stores and queries student and course information in a local database. Created in a month-long school project.
 
 
-#Implementation
+### Implementation
 This application runs in a GUI made with Java Swing. It uses a local Apache Derby database to store student and course entries, which is used to query the classes each respective student is enrolled in on a given semester.
 
-#Features
+### Features
 In the GUI, the user can access the student view or admin view. In the admin view, the user can create a student, create a class, or create a semester. In the student view, the user can choose a semester, and enroll or drop classes.
