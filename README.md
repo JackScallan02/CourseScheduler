@@ -1,4 +1,4 @@
-# CourseScheduler
+# Course Scheduler
 Java-based application that allows users to schedule courses. Stores and queries student and course information in a local database. Created in a month-long school project.
 
 
